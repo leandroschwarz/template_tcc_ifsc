@@ -8,15 +8,20 @@ de Julho de 2019, 4ª Edição, usando a classe [abnTeX2](https://github.com/abn
 
 # Como usar?  
 Este repositório está disponível como um template no github. Para criar um 
-repositório a partir de um template, ler [aqui](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template).
+repositório a partir de um template, [ler aqui](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template).
 
-Com o modelo no seu Github, é possível clonar e compilar localmente (para quem usa, por exemplo, o editor [TeXstudio](https://www.texstudio.org)) ou, importar para o editor web [Overleaf](https://www.overleaf.com) (para saber como importar, [ler aqui](https://pt.overleaf.com/learn/how-to/Using_Git_and_GitHub)).
+1. Para criar o seu repositório você pode optar por:
+   * criar um repostório a partir desse template
+   * usar como um submodulo no seu repositório Git do seu TCC já iniciado
+   * é possível também baixar como .zip, mas perderá o vínculo com o Git, portanto, prefira os métodos acima
 
-**TL;DR**: Você pode tanto usar como um submodulo do seu repositório GIT quanto criar um
-repostório a partir desse template.
+2. Para editar e escrever o seu TCC, você pode:
+   * compilar na sua máquina (testado apenas com a distribuição [TeXLive](https://www.tug.org/texlive/), mas deve funcionar com [MiKTeX](https://miktex.org/) também)
+   * importar / sincronizar o seu repositório com algum editor web como o [Overleaf](https://www.overleaf.com). Para saber como importar, [ler aqui](https://pt.overleaf.com/learn/how-to/Using_Git_and_GitHub)
 
 # Como contribuir?  
-Crie uma Issue, crie um Fork, mande um PR.
+ * Caso tenha problemas, dúvidas ou sugestões, [crie uma Issue](https://github.com/joaoantoniocardoso/IFSC-TCC-abnTeX2/issues/new/choose).
+ * Se deseja adicionar sua modificação, mande um PR a partir do seu fork, ou um patch em uma issue.
 
 # Histórico e Mudanças  
 Este repositório é um fork do [repositório do diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica), 
