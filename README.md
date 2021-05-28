@@ -35,6 +35,7 @@ As últimas mudanças foram:
  * [Augusto Hoffmann (gutohoffmann)](https://github.com/gutohoffmann)
  * [Daniel Henrique Camargo de Souza (bydansouza, o desenvolvedor da classe ifscTCC)](https://github.com/bydansouza)
  * [Diesson Stefano Allebrandt (diesson)](https://github.com/diesson)
+ * [Ana Cláudia Banderchuk (anabdck)](https://github.com/anabdck)
  * [Felipe Rodrigues Broering (BroeringFelipe)](https://github.com/BroeringFelipe)
  * [João Antônio Cardoso](https://github.com/joaoanoniocardoso)
 
