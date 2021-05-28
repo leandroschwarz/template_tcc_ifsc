@@ -27,7 +27,7 @@ As últimas mudanças foram:
  * Esta versão foi atualizada para trabalhar com Siunitx v3
  * Todo o conteúdo textual original foi removido, no lugar, foi adicionado um
  conteúdo guia, retirado do [Manual de Comunicação Científica (edição 2016)](https://www.ifsc.edu.br/documents/30725/188971/IFSC_manual_comunicacao_cientifica_maio_2016.pdf/58c017ce-c9e1-e36f-03b7-ea26b58f7d97). 
-   Para um trabalho completo como referência, ver o [repositório do Diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica)
+   Para um trabalho completo como referência, ver os [repositório do Diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica) e o [TCC da anabdck](https://github.com/anabdck/tcc).
  * Foi adicionado um .gitignore para evitar arquivos desnecessários no repositório
 
 # Contribuidores
@@ -38,3 +38,8 @@ As últimas mudanças foram:
  * [Felipe Rodrigues Broering (BroeringFelipe)](https://github.com/BroeringFelipe)
  * [João Antônio Cardoso](https://github.com/joaoanoniocardoso)
 
+# Exemplos
+Como referência sobre a utilização, segue uma lista de trabalhos anteriores e abertos no Github:
+* https://github.com/anabdck/tcc
+* https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica
+* https://github.com/bydansouza/ifscTCC
