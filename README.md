@@ -10,6 +10,8 @@ de Julho de 2019, 4ª Edição, usando a classe [abnTeX2](https://github.com/abn
 Este repositório está disponível como um template no github. Para criar um 
 repositório a partir de um template, ler [aqui](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-repository-from-a-template).
 
+Com o modelo no seu Github, é possível clonar e compilar localmente (para quem usa, por exemplo, o editor [TeXstudio](https://www.texstudio.org)) ou, importar para o editor web [Overleaf](https://www.overleaf.com) (para saber como importar, [ler aqui](https://pt.overleaf.com/learn/how-to/Using_Git_and_GitHub)).
+
 **TL;DR**: Você pode tanto usar como um submodulo do seu repositório GIT quanto criar um
 repostório a partir desse template.
 
