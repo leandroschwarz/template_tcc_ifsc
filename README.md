@@ -30,8 +30,10 @@ As últimas mudanças foram:
    Para um trabalho completo como referência, ver o [repositório do Diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica)
  * Foi adicionado um .gitignore para evitar arquivos desnecessários no repositório
 
-# Contribuidores  
- * [Daniel Henrique Camargo de Souza (bydansouza, o desenvolvedor original)](https://github.com/bydansouza)
+# Contribuidores
+ * [Flavio de Faveri (flaviofaveri)](https://github.com/flaviofaveri)
+ * [Augusto Hoffmann (gutohoffmann)](https://github.com/gutohoffmann)
+ * [Daniel Henrique Camargo de Souza (bydansouza, o desenvolvedor da classe ifscTCC)](https://github.com/bydansouza)
  * [Diesson Stefano Allebrandt (diesson)](https://github.com/diesson)
  * [Felipe Rodrigues Broering (BroeringFelipe)](https://github.com/BroeringFelipe)
  * [João Antônio Cardoso](https://github.com/joaoanoniocardoso)
