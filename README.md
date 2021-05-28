@@ -19,7 +19,7 @@ Crie uma Issue, crie um Fork, mande um PR.
 # Histórico e Mudanças  
 Este repositório é um fork do [repositório do diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica), 
 que por sua vez é um fork com melhorias e simplificações a partir do 
-[repositório do bydansouza](https://github.com/bydansouza/ifscTCC). 
+[repositório do bydansouza](https://github.com/bydansouza/ifscTCC), juntamente com partes dos TTCs do [flaviofaveri](https://github.com/flaviofaveri) e do [gutohoffmann](https://github.com/gutohoffmann).
 
 As últimas mudanças foram:
  * Os pacotes matemáticos foram alterados a fim de obter uma qualidade melhor
