@@ -14,7 +14,7 @@ repositório a partir de um template, ler [aqui](https://docs.github.com/pt/gith
 repostório a partir desse template.
 
 # Como contribuir?  
-Crie um Fork, mande um PR.
+Crie uma Issue, crie um Fork, mande um PR.
 
 # Histórico e Mudanças  
 Este repositório é um fork do [repositório do diesson](https://github.com/diesson/Modelo-de-TCC-Engenharia-eletronica), 
