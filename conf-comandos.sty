@@ -38,7 +38,9 @@
         \noindent Banca Examinadora:
         
         \assinatura{\imprimirorientador, Dr.} 
-        \assinatura{\imprimircoorientador, Dr.}
+        \@ifundefined{\imprimircoorientador}{}{
+        	\assinatura{\imprimircoorientador, Dr.}
+        }
         \assinatura{Mauro Tavares Peraça, Dr.}
         %\assinatura{Convidado 2, Dr.}
         \assinatura{Muriel Bittencourt de Liz, Dr.}
