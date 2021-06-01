@@ -212,7 +212,9 @@
                 \imprimirorientadorRotulo~Prof. Dr. \imprimirorientador\par
   
                 \vspace*{1.0cm}
-                \imprimircoorientadorRotulo~Prof. Dr. \imprimircoorientador%
+                	\@ifundefined{\imprimircoorientador}{}{
+	                \imprimircoorientadorRotulo~Prof. Dr. \imprimircoorientador
+                	}
             \end{SingleSpacing}
         \end{minipage}%
         \vspace*{\fill}
