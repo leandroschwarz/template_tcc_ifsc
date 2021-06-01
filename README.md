@@ -44,7 +44,8 @@ As últimas mudanças foram:
  * [Diesson Stefano Allebrandt (diesson)](https://github.com/diesson)
  * [Ana Cláudia Banderchuk (anabdck)](https://github.com/anabdck)
  * [Felipe Rodrigues Broering (BroeringFelipe)](https://github.com/BroeringFelipe)
- * [João Antônio Cardoso](https://github.com/joaoanoniocardoso)
+ * [João Antônio Cardoso (joaoantoniocardoso)](https://github.com/joaoanoniocardoso)
+ * [Igor Debastiani (gdinn)](https://github.com/gdinn)
 
 # Exemplos
 Como referência sobre a utilização, segue uma lista de trabalhos anteriores e abertos no Github:
